@@ -1,0 +1,20 @@
+body {
+    background: url('https://images8.alphacoders.com/108/1088862.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.img-nature{
+    width: 300px;
+    height: 230px;
+    margin-left: 10px;
+}
